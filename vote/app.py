@@ -68,6 +68,7 @@ def hello():
             option_e=option_e,
             option_f=option_f,
             hostname=hostname,
+            username=username,
             vote=vote,
         )
     )
